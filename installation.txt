@@ -1,0 +1,5 @@
+Installer Java (JDK 8/11)
+
+Installer Python 3.7+
+
+pip install pyspark
